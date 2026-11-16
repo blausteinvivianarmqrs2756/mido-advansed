@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Mido Advanced](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/mido-advansed)
+[![Download Mido Advanced](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/nq43EAosaJx1r51gd)
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-[![Download Mido Advanced](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/mido-advansed)
+[![Download Mido Advanced](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/nq43EAosaJx1r51gd)
 
 </div>
 
@@ -171,7 +171,7 @@ Download files securely and fast on Windows for free. **Mido Advanced – Secure
 
 <div align="center">
 
-[![Download Mido Advanced](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/mido-advansed)
+[![Download Mido Advanced](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/nq43EAosaJx1r51gd)
 
 **Version 4.0.0** — Free secure download manager for Windows. May 2026 update. Zero cost. No payment.
 
